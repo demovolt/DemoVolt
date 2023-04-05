@@ -5,5 +5,5 @@ I`m front-end developer
 
 #### 🐱 My latest projects
 
-- [dlvhdr/codesandbox-assignment](https://github.com/dlvhdr/codesandbox-assignment) - 
-- [dlvhdr/aoc-2022](https://github.com/dlvhdr/aoc-2022) - 
+- 
+- 
