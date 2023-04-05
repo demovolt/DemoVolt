@@ -1,9 +1,9 @@
-### Hi, I'm Aidar <img width="36px" height="36px" src="https://i.gifer.com/1aFL.gif" />
+### Hi, I'm Aidar 👋
 
 
 I`m front-end developer 
 
 #### 🐱 My latest projects
 
-- 
-- 
+- [🦆 Studuck](https://studuck.ru)
+- [💎 Ton Wallet](https://ton-wallet.vercel.app/)
