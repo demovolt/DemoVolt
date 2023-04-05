@@ -1,4 +1,4 @@
-### Hi, I'm Aidar <img width="36px" height="36px" src="https://user-images.githubusercontent.com/75935753/116562121-92596a80-a90b-11eb-8384-d512cce72471.gif" />
+### Hi, I'm Aidar <img width="36px" height="36px" src="https://i.gifer.com/1aFL.gif" />
 
 
 I`m front-end developer 
