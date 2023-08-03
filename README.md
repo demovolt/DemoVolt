@@ -6,5 +6,6 @@ I`m front-end developer
 
 ### 🐱 My latest projects
 
-- [🦆 Studuck](https://studuck.ru)
-- [💎 Ton Wallet](https://ton-wallet.vercel.app/)
+- [🦆 Studuck](https://github.com/AidarSh/studuck-next)
+- [🚀 Tulahack](https://github.com/AidarSh/studuck-next)
+- [💎 Ton Wallet](https://ton-wallet.vercel.app)
